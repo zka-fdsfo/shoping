@@ -1,0 +1,170 @@
+*{
+  
+   padding: 0;
+   margin: 0;
+   color: white;
+
+}
+header{
+      display:inline-block;
+      background-color: black;
+      height:60px;
+      width:1365px;
+      position:relative;
+      box-shadow: 20px 20px 60px black ;
+
+   }
+   a{
+      position: relative;
+      top:10px;
+      left: 20px;
+      margin-right:200px;
+      text-decoration: none;
+      font-size: 19px;
+
+   }
+   #logo{
+      color: orange;
+      font-size: 25px;
+   }
+   button{
+     background-color: orange;
+     position: relative;
+      top:10px;
+      right:40px;
+
+      
+   }
+   #search{
+      
+     position: relative;
+     top:10px;
+     right:40px;
+      
+
+   }
+
+div{
+   height: 180px;
+   width: 180px;
+   background-color: aqua;
+   position: relative;
+   top:40px;
+   left:50px;
+   margin: 10px;
+   border-radius:10%;
+   box-shadow: 20px 20px 60px black ;
+
+
+}
+h1{
+   height: 100px;
+   width: 100px;
+   
+}
+#box1{
+	
+   background-color: black;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/neil-soni-6wdRuK7bVTE-unsplash.jpg);
+   background-size: cover;
+
+
+
+}
+#box2{
+	
+   background-color: blue;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/OIJJOIJIH%20-%20Copy.png);
+   background-size: cover;
+}
+#box3{
+   
+   background-color: green;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/,,.webp);
+   background-size: cover;
+   
+
+
+}
+#box4{
+   
+   background-color: red;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/%3Bfg[]r[gl%20-%20Copy.png);
+   background-size: cover;
+
+   }
+   #box5{background-color: red;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/ii.png);
+   background-size: cover;
+
+
+
+   }
+  #box6{background-color: red;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/0002.png);
+   background-size: cover;
+
+      
+   }
+   #box7{background-color: red;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/hphpj-j[pljloip%20-%20Copy.png);
+   background-size: cover;
+
+      
+   }
+   #box8{background-color: red;
+   background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/rkikphokophkt.jpg);
+   background-size: cover;
+
+      
+   }
+   img{
+      height: 66px;
+      width: 193px;
+      position: relative;
+      top:38px;
+      left: 118px;
+   }
+   h3{ 
+     
+      font-size:29px;
+      color: black;
+      position: relative;
+      left:258px;
+      top:-1517px;
+      margin:45px;
+   }
+   #hb{
+      position: relative;
+      
+   }
+    #on{
+      position: relative;
+     
+   }
+   #of{
+      position: relative;
+     
+   }
+
+   #op{
+      position: relative;
+      
+   }
+   #ow{
+      position: relative;
+      
+   }
+   #ip{
+      position: relative;
+      
+
+   }   footer{
+      background-color: black;
+   height:200px;
+   text-align: center;
+   border-top: 10px black;
+   width:1365px;
+   position: relative;
+   top: -10px;
+   }

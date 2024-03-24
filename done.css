@@ -1,0 +1,74 @@
+*{
+  
+   padding: 0;
+   margin: 0;
+   color: white;
+
+}
+header{
+      display:inline-block;
+      background-color: black;
+      height:60px;
+      width:1365px;
+      position:relative;
+      box-shadow: 20px 20px 60px black ;
+
+   }
+   a{
+      position: relative;
+      top:10px;
+      left: 20px;
+      margin-right:200px;
+      text-decoration: none;
+      font-size: 19px;
+
+   }
+   #logo{
+      color: orange;
+      font-size: 25px;
+   }
+   button{
+     background-color: orange;
+     position: relative;
+      top:10px;
+      right:40px;
+
+      
+   }
+   #search{
+      
+     position: relative;
+     top:10px;
+     right:40px;
+      
+
+   }
+   #ji{
+      border-radius: 10px;
+      height:500px ;
+      width: 500px;
+      background-color: white;
+      position: relative;
+      top:99px;
+      left:404px;
+     
+      background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/htlh.png);
+      background-size: cover;
+   
+
+   }
+   #log{
+      text-align: center;
+      font-size: 25px;
+      margin: 67px;
+      color: black;
+   }
+  #op{
+      height:39px;
+      width: 94px;
+      background-image: url(file:///C:/Users/JKV%20KOLKATA%20NEWS/Downloads/gtrhtr.png);
+      background-size: cover;
+      position: relative;
+      top: 50px;
+      left:10px;
+   }
